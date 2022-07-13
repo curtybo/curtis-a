@@ -1,0 +1,20 @@
+{
+Hello = {"Tommy"};
+Hello = {"Kevin"};
+Hello = {"Duke"};
+Hello = {"Felipe"};
+Hello = {"Walter"};
+Hello = {"Bob"};
+Hello = {"Anny"};
+Hello = {"Castro"};
+
+Tommy = "Hello";
+Kevin = "Hello";
+Duke = "Hello";
+Felipe = "Hello";
+Walter = "Hello";
+Bob = "Hello";
+Anny = "Hello";
+Catro = "Hello";
+
+}
