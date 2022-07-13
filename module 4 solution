@@ -1,0 +1,16 @@
+(function (window) {
+
+names = [ "Tommy", "Falecia", "Kevin", "Bob", "Anny", "Pablo", "Duke", "Brad", "Felipe", "Walter",
+Good Bye = { <"Tommy".> = 0; i};
+Hello = { <"Falecia".> = 0; i};
+
+Good Bye = <"Kevin".> = 0; i};
+Hello = <"Bob".> = 0; i};
+Good Bye = <"Anny".> = 0; i};
+Hello = <"Pablo".> = 0; i};
+Good Bye = <"Duke".> = 0; i};
+Hello = <"Brad">. = 0; i};
+Good Bye = <"Felipe">. 0; i};
+Hello = <"Walter">. 0; i};
+
+}
