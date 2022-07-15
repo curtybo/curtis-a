@@ -1,0 +1,20 @@
+(function (module 4-Hello) {
+'Hello';
+Hello = "Kevin";
+
+}
+
+(function (module 4-Good Bye) {
+'GoodBye';
+GoodBye= {Kevin};
+
+}
+
+GoodBye.Kev = module 4 (Kevin) {
+ console.log(GoodBye + "Kev" + Kevin)
+ };
+ 
+ 
+ window.byeKev = byeKevin;
+ 
+ })(window;
